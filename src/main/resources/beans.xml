@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans>
+    <bean id="userService" class="com.flyingh.service.impl.UserServiceImpl"></bean>
+    <bean id="user" class="com.flyingh.vo.User"></bean>
+</beans>
